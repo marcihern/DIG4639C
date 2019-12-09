@@ -1,0 +1,12 @@
+.reContainer {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.remove {
+  background-color: red;
+  color: white;
+  border: none;
+  font-weight: bold;
+  font-size: 12px;
+}
